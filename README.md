@@ -1,4 +1,4 @@
-The existThQ:The existing experimental data was acquired using the MPRAGE technique to obtain a T1-weighted image. The data description is as follows: https://brain-development.org/ixi-dataset/
+Q:The existing experimental data was acquired using the MPRAGE technique to obtain a T1-weighted image. The data description is as follows: https://brain-development.org/ixi-dataset/
 
 (1) Please use the TigerBx software to perform brain segmentation.
 
